@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    
+    <style name="Bart.Theme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/BartActionBar</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/actionBar</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="BartActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:icon">@drawable/ic_launcher_actionbar</item>
+        <item name="android:titleTextStyle">@style/ActionBarText</item>
+        <!-- <item name="android:subtitleTextStyle">@style/NoTitleText</item> -->
+    </style>
+
+    <style name="ActionBarText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_marginLeft">100sp</item>
+    </style>
+
+</resources>
