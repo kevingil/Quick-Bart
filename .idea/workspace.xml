@@ -10,16 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afd51768-6f7a-4212-b8cc-04601e565288" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Kevin\Documents\Git\repositories\Quick-Bart\res\layout-v19\main.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Kevin\Documents\Git\repositories\Quick-Bart\res\values-v19\dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Kevin\Documents\Git\repositories\Quick-Bart\res\values-v19\styles.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kevingil/bart/BART.java" afterPath="$PROJECT_DIR$/src/com/kevingil/bart/BART.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kevingil/bart/MainActivity.java" afterPath="$PROJECT_DIR$/src/com/kevingil/bart/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Quick-Bart.iml" afterPath="$PROJECT_DIR$/Quick-Bart.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/dimens.xml" afterPath="$PROJECT_DIR$/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/Thumbs.db" afterPath="$PROJECT_DIR$/assets/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/bart_map.html" afterPath="$PROJECT_DIR$/assets/bart_map.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Quick-Bart.iws" />
@@ -52,8 +44,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.67799115">
-              <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.20088626">
+              <caret line="72" column="72" selection-start-line="72" selection-start-column="72" selection-end-line="72" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -61,14 +53,14 @@
       </file>
       <file leaf-file-name="main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.586206">
+            <state vertical-scroll-proportion="0.0">
               <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
           </provider>
         </entry>
       </file>
@@ -85,7 +77,7 @@
       <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.333333">
+            <state vertical-scroll-proportion="0.0">
               <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
               <folding />
             </state>
@@ -95,7 +87,7 @@
       <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.148148">
+            <state vertical-scroll-proportion="0.0">
               <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
               <folding />
             </state>
@@ -997,6 +989,10 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1014,50 +1010,8 @@
               <option name="myItemId" value="Quick-Bart" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Quick-Bart" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Quick-Bart" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Quick-Bart" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Quick-Bart" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Quick-Bart" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Quick-Bart" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1070,17 +1024,9 @@
               <option name="myItemId" value="Quick-Bart" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1311,11 +1257,10 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30555555" sideWeight="0.47008547" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17857143" sideWeight="0.50554675" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21666667" sideWeight="0.50427353" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21666667" sideWeight="0.50641024" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.4896861" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.49719775" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.48251122" order="7" side_tool="false" content_ui="tabs" />
@@ -1327,13 +1272,14 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2977169" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26821458" sideWeight="0.50643086" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21666667" sideWeight="0.4957265" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21666667" sideWeight="0.49358973" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1353,58 +1299,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="196" column="13" selection-start-line="196" selection-start-column="13" selection-end-line="196" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/RequestTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/StationSuggestion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/TextPlusIconArrayAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/ViewCountDownTimer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/UsherService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1429,7 +1327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1469,7 +1366,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/BartRouteParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="196" column="13" selection-start-line="196" selection-start-column="13" selection-end-line="196" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/RequestTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/StationSuggestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/TextPlusIconArrayAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/ViewCountDownTimer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/UsherService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1631,7 +1589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1655,7 +1612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2562814">
           <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1685,7 +1641,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.333333">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
           <folding />
         </state>
@@ -1693,7 +1649,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.148148">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
           <folding />
         </state>
@@ -1708,20 +1664,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.586206">
+        <state vertical-scroll-proportion="0.0">
           <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kevingil/bart/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67799115">
-          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.20088626">
+          <caret line="72" column="72" selection-start-line="72" selection-start-column="72" selection-end-line="72" selection-end-column="72" />
           <folding />
         </state>
       </provider>
