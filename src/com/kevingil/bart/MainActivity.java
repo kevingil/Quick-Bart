@@ -95,7 +95,7 @@ public class MainActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         
-        //TESTING: enable crittercism // not used by Fancy Bear Studio
+        //TESTING: enable crittercism
         //Crittercism.init(getApplicationContext(), SECRETS.CRITTERCISM_SECRET);
 
         if(Build.VERSION.SDK_INT < 11){

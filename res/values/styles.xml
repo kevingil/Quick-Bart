@@ -16,7 +16,6 @@
 
     <style name="ActionBarText">
         <item name="android:textStyle">bold</item>
-        <item name="android:fontFamily" tools:targetApi="16">sans-serif-light</item>
         <item name="android:textSize">30sp</item>
         <item name="android:textColor">@color/white</item>
         <item name="android:background">@null</item>

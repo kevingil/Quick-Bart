@@ -17,7 +17,7 @@
         </string>
     <string-array name="aboutDialog">
         <item>About Quick Bart</item>
-        <item>Open BART uses the source code of Open Bart as its base to it follows their GPLv3 license. Code is available on Github &lt;a href=\"https://github.com/kevingil/BART\">https://github.com/kevingil/BART&lt;/a>.&lt;br/>&lt;br/>
+        <item>Quick BART uses the source code of Open Bart as its base to it follows their GPLv3 license. Code is available on Github &lt;a href=\"https://github.com/kevingil/BART\">https://github.com/kevingil/BART&lt;/a>.&lt;br/>&lt;br/>
               Need help? Email us! &lt;br/>&lt;a href=\"mailto:fancybearstudioinc@gmail.com\">fancybearstudioinc@gmail.com&lt;/a>.
               &lt;h1>Thanks&lt;/h1>
         </item>
