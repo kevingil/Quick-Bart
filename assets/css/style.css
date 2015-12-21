@@ -1,0 +1,86 @@
+/* hi */
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, san-serif;
+  font-weight: 200;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration:none;
+  color: #333;
+}
+
+a:hover {
+  text-decoration:underline;
+}
+
+/* MAP */
+
+#map_wrapper {
+	background: #fff;
+  height:100%;
+}
+
+#map {
+	margin:0 0 0 0px;
+}
+
+/* LEGEND */
+#legend {
+  color: #fff;
+  font-size:12px;
+  width:250px;
+  position:fixed;
+  z-index: 9000;
+  background: #000;
+  padding-bottom: 20px;
+  display: none ;
+
+}
+
+#legend ul {
+  padding:2px;
+  margin:0;
+}
+
+#legend ul li {
+  list-style-type: none;
+  float:left;
+  clear:both;
+  padding:3px 2px;
+}
+
+#legend ul li input{
+	float:left;
+	margin-right:10px;
+}
+
+#legend ul li img{
+  float:left;
+}
+
+#legend ul li .legendname {
+  margin:4px 15px 4px 3px;
+  float:left;
+}
+
+#status{
+	clear:both;
+	padding:15px 5px;
+}
+
+#last_updated{
+	padding-top: 5px;
+}
+
+#clock{
+	padding-top: 5px;
+}
+
+#disclaimer{
+  padding-top: 15px;
+}
+
+
