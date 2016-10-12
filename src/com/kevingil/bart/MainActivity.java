@@ -32,7 +32,6 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.*;
 import android.widget.AdapterView.OnItemClickListener;
 
-import com.crittercism.app.Crittercism;
 import com.kevingil.bart.DeviceLocation.LocationResult;
 
 
@@ -94,9 +93,7 @@ public class MainActivity extends Activity {
 	@Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        
-        //TESTING: enable crittercism
-        //Crittercism.init(getApplicationContext(), SECRETS.CRITTERCISM_SECRET);
+
 
         if(Build.VERSION.SDK_INT < 11){
         	//If API 14+, The ActionBar will be hidden with this call
