@@ -21,9 +21,9 @@ public class MapActivity extends Activity {
 		this.requestWindowFeature(Window.FEATURE_NO_TITLE);
 		
 		WebView webview = new WebView(this);
-<<<<<<< HEAD
+
 		webview.getSettings().setBuiltInZoomControls(true);
-=======
+
 		webview.getSettings().setBuiltInZoomControls(false);
 
 		getWindow().requestFeature(Window.FEATURE_PROGRESS);
@@ -44,7 +44,6 @@ public class MapActivity extends Activity {
 			}
 		});
 
->>>>>>> fc9498fa3125b4a4e9a487508546c578813bfbde
 		webview.loadUrl("file:///android_asset/index.html");
 		setContentView(webview);
 		
