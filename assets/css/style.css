@@ -1,13 +1,21 @@
+<<<<<<< HEAD
+=======
+/* hi */
+
+>>>>>>> fc9498fa3125b4a4e9a487508546c578813bfbde
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, san-serif;
   font-weight: 200;
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
   -webkit-user-select: none;
   -khtml-user-select: none;
   -moz-user-select: none;
   -o-user-select: none;
   user-select: none;
+=======
+>>>>>>> fc9498fa3125b4a4e9a487508546c578813bfbde
 }
 
 a {
@@ -19,6 +27,7 @@ a:hover {
   text-decoration:underline;
 }
 
+<<<<<<< HEAD
 /* HEADER */
 
 #header {
@@ -80,14 +89,37 @@ a:hover {
 #map {
 	margin:0 0 0 250px;
 	height:75%;
+=======
+/* MAP */
+
+#map_wrapper {
+	background: #fff;
+  height:100%;
+}
+
+#map {
+	margin:0 0 0 0px;
+>>>>>>> fc9498fa3125b4a4e9a487508546c578813bfbde
 }
 
 /* LEGEND */
 #legend {
+<<<<<<< HEAD
   color:#666666;
   font-size:12px;
   width:250px;
   position:absolute;
+=======
+  color: #fff;
+  font-size:12px;
+  width:250px;
+  position:fixed;
+  z-index: 9000;
+  background: #000;
+  padding-bottom: 20px;
+  display: none ;
+
+>>>>>>> fc9498fa3125b4a4e9a487508546c578813bfbde
 }
 
 #legend ul {
@@ -133,6 +165,7 @@ a:hover {
   padding-top: 15px;
 }
 
+<<<<<<< HEAD
 /* FOOTER */
 footer {
   color:#999999;
@@ -142,3 +175,6 @@ footer {
   width:250px;
   padding:5px;
 }
+=======
+
+>>>>>>> fc9498fa3125b4a4e9a487508546c578813bfbde

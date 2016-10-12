@@ -455,8 +455,8 @@ public class MainActivity extends Activity {
     	}
     	url += "&key="+BART.API_KEY;
     	Log.d("BART API",url);
-    	Crittercism.leaveBreadcrumb("BART API: "+ url);
-    	new RequestTask(request, updateUI).execute(url);
+
+
     	// Set loading indicator
     	// I find this jarring when network latency is low
     	// TODO: set a countdown timer and only indicate loading after a threshold

@@ -8,7 +8,11 @@ var southbound
 
 
 function sizeWindow() {
+<<<<<<< HEAD
   $('#map').height($(window).height() - 120);
+=======
+  $('#map').height($(window).height());
+>>>>>>> fc9498fa3125b4a4e9a487508546c578813bfbde
 }
 
 
@@ -81,7 +85,11 @@ function setupMap() {
 
 
 function getBART() {
+<<<<<<< HEAD
   var BARTApi = 'MW9S-E7SL-26DU-VV8V';
+=======
+  var BARTApi = 'RSLM-JS6V-UESU-VXJX';
+>>>>>>> fc9498fa3125b4a4e9a487508546c578813bfbde
   $.get('http://api.bart.gov/api/etd.aspx?cmd=etd&orig=ALL&key=' + BARTApi + '&callback=?', processBART);
 }
 
