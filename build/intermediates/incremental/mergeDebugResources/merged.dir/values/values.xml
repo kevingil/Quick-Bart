@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aboutDialog">
+        <item>About Quick Bart</item>
+        <item>Quick BART uses the source code of Open Bart as its base to it follows their GPLv3 license. Code is available on Github &lt;a href=\"https://github.com/kevingil/BART\">https://github.com/kevingil/BART&lt;/a>.&lt;br/>&lt;br/>
+              Need help? Email us! &lt;br/>&lt;a href=\"mailto:fancybearstudioinc@gmail.com\">fancybearstudioinc@gmail.com&lt;/a>.
+              &lt;h1>Thanks&lt;/h1>
+        </item>
+    </string-array>
+    <string-array name="crashCatchDialog">
+        <item>We\'re sorry!</item>
+        <item>Quick Bart is misbehaving, and our developers have been notified. If you please, 
+              &lt;a href="mailto:fancybearstudioinc@gmail.com">write us&lt;/a> and tell us how you got here!</item>
+    </string-array>
+    <string-array name="networkErrorDialog">
+        <item>Network Error</item>
+        <item>Check your network connection.</item>
+    </string-array>
+    <color name="actionBar">@android:color/holo_blue_dark</color>
+    <color name="black">#000</color>
+    <color name="parentLayout">#FFF</color>
+    <color name="white">#FFF</color>
+    <item name="TextInputMemory" type="id"/>
+    <item name="TextInputShowingSuggestions" type="id"/>
+    <string name="StationSuggestionFileName">stationSuggestions</string>
+    <string name="app_name">Bart</string>
+    <string name="greeting">
+        Quick Bart is free and open-source software. All train estimates are displayed as minutes until departure.
+        &lt;h1>Happy Riding&lt;/h1>
+        </string>
+    <string name="local_service_connected">trip usher at work</string>
+    <string name="local_service_disconnected">trip usher off</string>
+    <string name="local_service_label">I\'ll vibrate when you need to move</string>
+    <string name="local_service_started">trip usher at work</string>
+    <string name="local_service_stopped">trip usher off</string>
+    <string name="service_prompt">Experimental Feature! &lt;br/>I can vibrate your phone when your stops are approaching! You can also check the notification bar at any time to see your next move.</string>
+    <string name="service_start_button">Guide Me!</string>
+    <style name="ActionBarText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_marginLeft">100sp</item>
+    </style>
+    <style name="Bart.Theme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/BartActionBar</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/actionBar</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="BartActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:icon">@drawable/ic_launcher_actionbar</item>
+        <item name="android:titleTextStyle">@style/ActionBarText</item>
+        <!-- <item name="android:subtitleTextStyle">@style/NoTitleText</item> -->
+    </style>
+</resources>

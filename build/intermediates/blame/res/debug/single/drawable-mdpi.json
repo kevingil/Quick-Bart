@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_actionbar.png",
+        "source": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\res\\drawable-mdpi\\ic_launcher_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\about.png",
+        "source": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\res\\drawable-mdpi\\about.png"
+    }
+]

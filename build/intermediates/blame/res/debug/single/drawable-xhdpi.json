@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shuffle_pressed.png",
+        "source": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\res\\drawable-xhdpi\\shuffle_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shuffle.png",
+        "source": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\res\\drawable-xhdpi\\shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_actionbar.png",
+        "source": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\res\\drawable-xhdpi\\ic_launcher_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\map_pressed.png",
+        "source": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\res\\drawable-xhdpi\\map_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\about.png",
+        "source": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\res\\drawable-xhdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\map.png",
+        "source": "C:\\Users\\Kevin\\Documents\\Git\\Quick-Bart\\res\\drawable-xhdpi\\map.png"
+    }
+]
