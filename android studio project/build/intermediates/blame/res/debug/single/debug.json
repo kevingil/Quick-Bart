@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_clock.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_tabletext.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\layout\\tabletext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_map_pressed.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\map_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_actionbar.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\ic_launcher_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_routedetail.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\layout\\routedetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_actionbar.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-ldpi\\ic_launcher_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\345abd055160ab28945ed531fedcc95e\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\anim_decelerate_interpolator.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\anim\\decelerate_interpolator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\345abd055160ab28945ed531fedcc95e\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable_map_selector.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable\\map_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shuffle.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_tablerow.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\layout\\tablerow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shuffle_pressed.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-xhdpi\\shuffle_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\345abd055160ab28945ed531fedcc95e\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\345abd055160ab28945ed531fedcc95e\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\345abd055160ab28945ed531fedcc95e\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_specialschedulelayout.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\layout\\specialschedulelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\345abd055160ab28945ed531fedcc95e\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_actionitem.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\layout\\actionitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shuffle_pressed.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\shuffle_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_warning.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reticle.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\345abd055160ab28945ed531fedcc95e\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shuffle.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-xhdpi\\shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_bikeimage.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\layout\\bikeimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\anim_accelerate_interpolator.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\anim\\accelerate_interpolator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_destinationlayout.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\layout\\destinationlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_heart.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_no_bicycle.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\no_bicycle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_notification.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\ic_launcher_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_map_pressed.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-xhdpi\\map_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\anim_scale_in.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\anim\\scale_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_down.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\anim\\slide_out_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_about.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-mdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable_shuffle_selector.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable\\shuffle_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_about.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-xhdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\345abd055160ab28945ed531fedcc95e\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sad_mac.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\sad_mac.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_routelinearlayout.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\layout\\routelinearlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_destination_row.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\layout\\destination_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bicycle.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\bicycle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_map.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-xhdpi\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\345abd055160ab28945ed531fedcc95e\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_tablerow_right.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\layout\\tablerow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\anim_scale_out.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\anim\\scale_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_actionbar.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-xhdpi\\ic_launcher_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\anim\\slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_map.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-hdpi\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_actionbar.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable\\ic_launcher_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_actionbar.png.flat",
+        "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\drawable-mdpi\\ic_launcher_actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\layout\\notification_action.xml"
+    }
+]
