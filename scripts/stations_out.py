@@ -5,7 +5,7 @@
 from xml.dom import minidom
 import urllib2
 
-api = 'http://api.bart.gov/api/stn.aspx?cmd=stns&key=RSLM-JS6V-UESU-VXJX'
+api = 'http://api.bart.gov/api/stn.aspx?cmd=stns&key=MW9S-E7SL-26DU-VV8V'
 xml = minidom.parse(urllib2.urlopen(api))
 itemlist = xml.getElementsByTagName('name')
 
