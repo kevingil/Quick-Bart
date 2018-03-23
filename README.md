@@ -1,4 +1,4 @@
-# simple bart [![Build Status](https://travis-ci.org/kevingil/simple-bart.png?branch=master)](https://travis-ci.org/kevingil/simple-bart) [![Code Climate](https://codeclimate.com/github/kevingil/simple-bart/badges/gpa.svg)](https://codeclimate.com/github/kevingil/simple-bart)
+# simple bart [![Code Climate](https://codeclimate.com/github/kevingil/simple-bart/badges/gpa.svg)](https://codeclimate.com/github/kevingil/simple-bart)
 simple and easy way to check for BART eta's, trip price, and announcements.
 
 # TODO
