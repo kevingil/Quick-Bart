@@ -1,7 +1,7 @@
-# Quick-Bart
-Quick and easy way to check for BART eta's and announcements.
+# simple bart
+simple and easy way to check for BART eta's, trip price, and announcements.
 
-#To Do
+# TODO
 - [x] end support for devices running sdk version 15 or lower
 - [ ] Update layout with bottom nav bar
 - [ ] Translate JS GPS position based on time prediction to native Java code with google maps api
