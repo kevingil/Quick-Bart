@@ -1,3 +1,6 @@
+# Quick-Bart
+Quick and easy way to check for BART eta's and announcements.
+
 #To Do
 - [x] end support for devices running sdk version 15 or lower
 - [ ] Update layout with bottom nav bar
