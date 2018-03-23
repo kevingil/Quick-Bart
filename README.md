@@ -10,6 +10,6 @@ Simple and easy way to check for BART eta's, trip price, and announcements.
 - [ ] change app font to match new material design guidelines
 
 #### credits
-*[open bart](https://github.com/OnlyInAmerica/BART) by David Brodsky. GNU GPL v3
+*[open bart](https://github.com/OnlyInAmerica/BART) by david brodsky. GNU GPL v3
 
 *[simple-java-xml-parser](https://github.com/thebuzzmedia/simple-java-xml-parser) by thebuzzmedia. Apache v2
