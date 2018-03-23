@@ -14,7 +14,7 @@ stn_code = xml.getElementsByTagName('abbr')
 stn_lat = xml.getElementsByTagName('gtfs_latitude')
 stn_lon = xml.getElementsByTagName('gtfs_longitude')
 
-#Data I need for the Android app
+#making strings. this fixed the unicode string bug
 stn_name_out = ""
 stn_code_out = ""
 stn_location_api = ""
