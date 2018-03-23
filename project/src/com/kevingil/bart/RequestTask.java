@@ -24,6 +24,9 @@ import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+
+//TODO migrate HttpClient to HttpURLConnection
+//https://stackoverflow.com/questions/31433687/android-gradle-apache-httpclient-does-not-exist
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
 import org.apache.http.StatusLine;

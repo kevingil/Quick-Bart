@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "C:\\Users\\Kevin\\Git\\simple-bart\\project\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\74378d13a301bf0e00de13b0612046af\\res\\values-fr-rCA\\values-fr-rCA.xml",

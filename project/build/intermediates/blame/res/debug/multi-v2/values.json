@@ -1,41 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Kevin\\Git\\Quick-Bart\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Kevin\\Git\\simple-bart\\project\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\values\\color.xml",
+                    "source": "C:\\Users\\Kevin\\Git\\simple-bart\\project\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,7,3,6",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "57,242,124,204",
-                        "endColumns": "65,36,43,36",
-                        "endOffsets": "118,274,163,236"
+                        "startLines": "17,4,9,3,13,27,28,26,24,25,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "758,98,408,56,560,1494,1565,1410,1276,1345,1635,1841",
+                        "endLines": "23,8,12,3,16,27,28,26,24,25,29,30",
+                        "endColumns": "19,19,19,41,17,70,69,83,68,64,205,58",
+                        "endOffsets": "1271,403,555,93,753,1560,1630,1489,1340,1405,1836,1895"
                     },
                     "to": {
-                        "startLines": "18,19,23,28",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "1035,1101,1359,1679",
-                        "endColumns": "65,36,43,36",
-                        "endOffsets": "1096,1133,1398,1711"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\values\\file_values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "36",
-                        "endOffsets": "140"
-                    },
-                    "to": {
-                        "startLines": "74",
-                        "startColumns": "4",
-                        "startOffsets": "4565",
-                        "endColumns": "72",
-                        "endOffsets": "4633"
+                        "startLines": "2,9,14,75,76,80,81,82,83,84,85,86",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,573,883,4638,4680,4878,4949,5019,5103,5172,5237,5443",
+                        "endLines": "8,13,17,75,79,80,81,82,83,84,85,86",
+                        "endColumns": "19,19,19,41,17,70,69,83,68,64,205,58",
+                        "endOffsets": "568,878,1030,4675,4873,4944,5014,5098,5167,5232,5438,5497"
                     }
                 },
                 {
@@ -58,43 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\345abd055160ab28945ed531fedcc95e\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,144,215,288,348,414,536,597,663",
-                        "endColumns": "88,70,72,59,65,121,60,65,66",
-                        "endOffsets": "139,210,283,343,409,531,592,658,725"
-                    },
-                    "to": {
-                        "startLines": "22,24,26,72,112,114,115,120,122",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1270,1403,1532,4435,6957,7133,7255,7517,7712",
-                        "endColumns": "88,70,72,59,65,121,60,65,66",
-                        "endOffsets": "1354,1469,1600,4490,7018,7250,7311,7578,7774"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "17,4,9,3,13,27,28,26,24,25,29,30",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "758,98,408,56,560,1494,1565,1410,1276,1345,1635,1841",
-                        "endLines": "23,8,12,3,16,27,28,26,24,25,29,30",
-                        "endColumns": "19,19,19,41,17,70,69,83,68,64,205,58",
-                        "endOffsets": "1271,403,555,93,753,1560,1630,1489,1340,1405,1836,1895"
-                    },
-                    "to": {
-                        "startLines": "2,9,14,75,76,80,81,82,83,84,85,86",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,573,883,4638,4680,4878,4949,5019,5103,5172,5237,5443",
-                        "endLines": "8,13,17,75,79,80,81,82,83,84,85,86",
-                        "endColumns": "19,19,19,41,17,70,69,83,68,64,205,58",
-                        "endOffsets": "568,878,1030,4675,4873,4944,5014,5098,5167,5232,5438,5497"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Kevin\\Git\\simple-bart\\project\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "16,2,9",
                         "startColumns": "4,4,4",
@@ -113,7 +61,41 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Kevin\\Git\\Quick-Bart\\res\\values\\tag_values.xml",
+                    "source": "C:\\Users\\Kevin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\345abd055160ab28945ed531fedcc95e\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,144,215,288,348,414,536,597,663",
+                        "endColumns": "88,70,72,59,65,121,60,65,66",
+                        "endOffsets": "139,210,283,343,409,531,592,658,725"
+                    },
+                    "to": {
+                        "startLines": "22,24,26,72,112,114,115,120,122",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1270,1403,1532,4435,6957,7133,7255,7517,7712",
+                        "endColumns": "88,70,72,59,65,121,60,65,66",
+                        "endOffsets": "1354,1469,1600,4490,7018,7250,7311,7578,7774"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kevin\\Git\\simple-bart\\project\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "2,7,3,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,242,124,204",
+                        "endColumns": "65,36,43,36",
+                        "endOffsets": "118,274,163,236"
+                    },
+                    "to": {
+                        "startLines": "18,19,23,28",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1035,1101,1359,1679",
+                        "endColumns": "65,36,43,36",
+                        "endOffsets": "1096,1133,1398,1711"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kevin\\Git\\simple-bart\\project\\res\\values\\tag_values.xml",
                     "from": {
                         "startLines": "5,2",
                         "startColumns": "4,4",
@@ -128,6 +110,24 @@
                         "startOffsets": "4109,4154",
                         "endColumns": "44,56",
                         "endOffsets": "4149,4206"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kevin\\Git\\simple-bart\\project\\res\\values\\file_values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "36",
+                        "endOffsets": "140"
+                    },
+                    "to": {
+                        "startLines": "74",
+                        "startColumns": "4",
+                        "startOffsets": "4565",
+                        "endColumns": "72",
+                        "endOffsets": "4633"
                     }
                 }
             ]
